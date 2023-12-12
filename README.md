@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop schreenshot of my done site](Screenshot-Desktop.png)
+![desktop schreenshot of my done site](/Screenshot-Desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AngwenyiOgata/fylo-dark-theme.git)
-- Live Site URL: [Add live site URL here](https://angwenyiogata.github.io/fylo-dark-theme/)
+- Solution URL: [Source Code](https://github.com/AngwenyiOgata/fylo-dark-theme.git)
+- Live Site URL: [Add live site](https://angwenyiogata.github.io/fylo-dark-theme/)
 
 ## My process
 
