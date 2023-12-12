@@ -51,4 +51,4 @@ For now am challenging my myself with more FrontEnd Mentor challenges and am pla
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AngwenyiOgata](https://www.frontendmentor.io/profile/AngwenyiOgata))
