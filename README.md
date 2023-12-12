@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop schreenshot of my done site](./Screenshot-Desktop.png)
+![desktop schreenshot of my done site](Screenshot-Desktop.png)
 
 ### Links
 
